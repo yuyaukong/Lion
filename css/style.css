@@ -393,6 +393,9 @@ span.glyphicon.glyphicon-play:hover {
   color: #5A5A5A;
   line-height: 1.9em;
 }
+.about-top {
+  background: #DDDDDD;
+}
 .about-top h2 {
   font-size: 2.8em;
   font-weight: 500;
@@ -843,7 +846,7 @@ span.menu{
 .top-nav ul.res li{
 		display: block;
 		text-align: center;
-		background:#fff;
+		background:#666666;
 		margin: 0;
 	    width: 100%;
 		padding: 0em;
